@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8370806-0968-46e1-8dc1-e50b61676ea4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1at6Hg26V4bXceHG4IB7efkfl5C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../selectbmw" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\OSPanel\domains\kursovoy" />
+      <recent name="C:\OpenServer\OSPanel\domains\kursovoy\styles" />
+      <recent name="C:\OpenServer\OSPanel\domains\kursovoy\logsinbd" />
+      <recent name="C:\OpenServer\OSPanel\domains\kursovoy\logsing" />
+      <recent name="C:\OpenServer\OSPanel\domains\kursovoy\pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\OSPanel\domains\pkzoninfo" />
+      <recent name="C:\OpenServer\OSPanel\domains\pkzoninfo\styles" />
+      <recent name="C:\Users\Andron\Desktop\kursovoy" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8370806-0968-46e1-8dc1-e50b61676ea4" name="Default Changelist" comment="" />
+      <created>1587542456593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587542456593</updated>
+      <workItem from="1587542458273" duration="1297000" />
+      <workItem from="1587557046283" duration="24798000" />
+      <workItem from="1587807202124" duration="13808000" />
+      <workItem from="1587831616190" duration="21295000" />
+      <workItem from="1587905040808" duration="81938000" />
+      <workItem from="1588181856768" duration="442000" />
+      <workItem from="1588233488849" duration="7746000" />
+      <workItem from="1588247430543" duration="1935000" />
+      <workItem from="1588257637531" duration="3490000" />
+      <workItem from="1588749740133" duration="11733000" />
+      <workItem from="1588832413773" duration="1023000" />
+      <workItem from="1589007751047" duration="41699000" />
+      <workItem from="1589279126530" duration="3479000" />
+      <workItem from="1589488815289" duration="3650000" />
+      <workItem from="1589628992163" duration="3302000" />
+      <workItem from="1590003908949" duration="4326000" />
+      <workItem from="1591433843368" duration="17037000" />
+      <workItem from="1591696468334" duration="10029000" />
+      <workItem from="1591724739546" duration="3342000" />
+      <workItem from="1592039820709" duration="4262000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="184" key="#Inspections" timestamp="1587915445310">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#Inspections/0.0.1920.1050@0.0.1920.1050" timestamp="1587915445310" />
+    <state x="552" y="184" key="#SQL_Dialects" timestamp="1587813206897">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="184" key="#SQL_Dialects/0.0.1920.1050@0.0.1920.1050" timestamp="1587813206897" />
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589045263725">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="690" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1589045263725" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1592039832747">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1592039832747" />
+    <state x="794" y="449" key="NewPhpFileDialog" timestamp="1588152539012">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="794" y="449" key="NewPhpFileDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1588152539012" />
+    <state x="0" y="171" key="SettingsEditor" timestamp="1590003926904">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="0" y="171" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1590003926904" />
+    <state x="656" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1592039820101">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="656" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1592039820101" />
+    <state x="342" y="250" key="new project wizard" timestamp="1590003972085">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="342" y="250" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1590003972085" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1589053076008">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1589053076008" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1588090639685">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1588090639685" />
+  </component>
+</project>
